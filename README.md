@@ -13,7 +13,7 @@ This Multi-Agentic System is developed to assist people to help in doing automat
 2. **React SpeechRecognition Library for Voice Input**
 2. **MongoDB Atlas for Database**
 3. **Python**
-4. **CrewAI ** & **OpenAI Model**
+4. **CrewAI** & **OpenAI Model**
 5. **LangChain,LangGraph chaining, CrewAI-Tools for Agents inter communication and tool management and memory context for generating reposts and scheduling tasks, etc**, and **chromaDB as Vector Database for embeddings**.
 ### 2. Deployment
 - The frontend is being deployed on [Vercel](https://vercel.com) using default build production.
